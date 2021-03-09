@@ -4,3 +4,5 @@ Title: metrologia
 Version: 0.0.1
 Imports: bookdown
 Remotes: rstudio/bookdown
+URL: https://github.com/analytical/metrologia
+BugReports: https://github.com/analytical/metrologia/issues
