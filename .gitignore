@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+_publish.R
+rsconnect
+.Rdata
+.httr-oauth
+.DS_Store
